@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Hoja de Vida - U1</title>
+</head>
+<body>
+  <h1>Nombre Apellido</h1>
+  <p><strong>Email:</strong> ejemplo@gmail.com</p>
+  <p><strong>Perfil:</strong> Estudiante de ingeniería con interés en desarrollo web...</p>
+</body>
+</html>
